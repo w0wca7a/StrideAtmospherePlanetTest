@@ -26,6 +26,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AssetData\StrideAssetTemplate\StrideAssetTemplate.csproj" />
+    <ProjectReference Include="..\AssetData\StrideAtmospherePlanetTest\StrideAtmospherePlanetTest.csproj" />
   </ItemGroup>
 </Project>

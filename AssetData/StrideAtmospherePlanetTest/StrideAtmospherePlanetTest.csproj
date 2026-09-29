@@ -5,8 +5,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <!-- Rename these (and the folder + .csproj file) to your asset's name. -->
-    <RootNamespace>StrideAssetTemplate</RootNamespace>
-    <AssemblyName>StrideAssetTemplate</AssemblyName>
+    <RootNamespace>StrideAtmospherePlanetTest</RootNamespace>
+    <AssemblyName>StrideAtmospherePlanetTest</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>

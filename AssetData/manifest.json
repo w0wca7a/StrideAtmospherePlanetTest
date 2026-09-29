@@ -1,14 +1,26 @@
 {
   "schemaVersion": 1,
-  "id": "com.yourname.your-asset",
-  "name": "Your Asset Name",
-  "authors": [{ "name": "YourName", "url": "https://github.com/yourname" }],
-  "description": "One or two sentences: what does it do, and why would a Stride developer want it? This text is the storefront card AND the link preview — make it count.",
-  "category": "Scripts",
-  "tags": ["replace", "with", "searchable", "keywords"],
+  "id": "com.w0wca7a.atmosphere-planet-test",
+  "name": "AtmospherePlanetTest",
+  "authors": [
+    {
+      "name": "w0wca7a",
+      "url": "https://github.com/w0wca7a"
+    }
+  ],
+  "description": "Full-screen analytic single-scattering atmosphere (Rayleigh \u002B Mie), in the style of Sean O\u0027Neil\u0027s GPU Gems 2 \u0022Accurate Atmospheric Scattering\u0022 chapter, simplified to a single ray march per pixel with a fixed low sample count",
+  "category": "VFX",
+  "tags": [
+    "shader",
+    "space",
+    "rendering",
+    "atmosphere"
+  ],
   "license": "MIT",
   "thumbnail": "thumbnail.png",
-  "media": ["media/screenshot.png"],
+  "media": [
+    "media/screenshot.png"
+  ],
   "dependencies": [],
   "defaultImport": "local"
 }

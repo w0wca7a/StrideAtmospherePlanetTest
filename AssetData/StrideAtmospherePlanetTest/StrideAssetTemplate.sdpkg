@@ -2,7 +2,7 @@
 SerializedVersion: {Assets: 3.1.0.0}
 Meta:
     # Rename to your asset's name, and keep it in step with the .csproj and the folder.
-    Name: StrideAssetTemplate
+    Name: StrideAtmospherePlanetTest
     Version: 1.0.0
     Authors: []
     Owners: []

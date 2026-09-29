@@ -1,7 +1,7 @@
 using Stride.Core.Mathematics;
 using Stride.Engine;
 
-namespace StrideAssetTemplate;
+namespace StrideAtmospherePlanetTest;
 
 /// <summary>
 /// Example drop-in <see cref="SyncScript"/> — the "attach it and press play" entry point of your
@@ -16,7 +16,7 @@ namespace StrideAssetTemplate;
 public class ExampleScript : SyncScript
 {
     /// <summary>Message drawn on screen while the script runs (proof it's alive).</summary>
-    public string Message { get; set; } = "Hello from StrideAssetTemplate — replace me!";
+    public string Message { get; set; } = "Hello from StrideAtmospherePlanetTest — replace me!";
 
     public override void Update()
     {
