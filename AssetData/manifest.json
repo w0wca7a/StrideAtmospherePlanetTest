@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "com.yourname.your-asset",
+  "name": "Your Asset Name",
+  "authors": [{ "name": "YourName", "url": "https://github.com/yourname" }],
+  "description": "One or two sentences: what does it do, and why would a Stride developer want it? This text is the storefront card AND the link preview — make it count.",
+  "category": "Scripts",
+  "tags": ["replace", "with", "searchable", "keywords"],
+  "license": "MIT",
+  "thumbnail": "thumbnail.png",
+  "media": ["media/screenshot.png"],
+  "dependencies": [],
+  "defaultImport": "local"
+}

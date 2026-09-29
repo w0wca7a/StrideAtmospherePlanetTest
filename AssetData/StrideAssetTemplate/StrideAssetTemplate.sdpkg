@@ -1,0 +1,23 @@
+!Package
+SerializedVersion: {Assets: 3.1.0.0}
+Meta:
+    # Rename to your asset's name, and keep it in step with the .csproj and the folder.
+    Name: StrideAssetTemplate
+    Version: 1.0.0
+    Authors: []
+    Owners: []
+    Dependencies: null
+# Stride content lives here: scenes, materials, prefabs, textures, models, sounds.
+AssetFolders:
+    -   Path: !dir Assets
+# The source files those assets are built from: .png, .fbx, .wav...
+ResourceFolders:
+    - !dir Resources
+OutputGroupDirectories: {}
+ExplicitFolders: []
+Bundles: []
+TemplateFolders: []
+# Listed here, an asset is always compiled and loadable by URL even when nothing references it.
+# Without this, an asset only ships if something in a scene or script points at it.
+RootAssets:
+    - be2301df-1eb1-4afe-b3bc-a61a1a594759:ExampleTexture

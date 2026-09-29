@@ -1,0 +1,5 @@
+{
+  "id": "com.yourname.your-asset",
+  "repo": "https://github.com/yourname/YourAssetRepo",
+  "latest": { "ref": "main" }
+}
